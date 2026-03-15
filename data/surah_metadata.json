@@ -1,0 +1,12 @@
+[
+  {"surah_no": 1, "name": "Al-Fatiha", "total_ayahs": 7},
+  {"surah_no": 2, "name": "Al-Baqarah", "total_ayahs": 286},
+  {"surah_no": 3, "name": "Al-Imran", "total_ayahs": 200},
+  {"surah_no": 4, "name": "An-Nisa", "total_ayahs": 176},
+  {"surah_no": 5, "name": "Al-Ma'idah", "total_ayahs": 120},
+  {"surah_no": 6, "name": "Al-An'am", "total_ayahs": 165},
+  {"surah_no": 7, "name": "Al-A'raf", "total_ayahs": 206},
+  {"surah_no": 8, "name": "Al-Anfal", "total_ayahs": 75},
+  {"surah_no": 9, "name": "At-Tawbah", "total_ayahs": 129},
+  {"surah_no": 10, "name": "Yunus", "total_ayahs": 109}
+]

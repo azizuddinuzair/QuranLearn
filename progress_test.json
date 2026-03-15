@@ -1,0 +1,28 @@
+[
+  {
+    "word": "قَالَ",
+    "translit": "qaala",
+    "meaning": "he said",
+    "surah_id": 2,
+    "ayah_id": 30,
+    "phase": 1,
+    "learned": false,
+    "first_seen": null,
+    "review_count": 0,
+    "quiz_correct": 0,
+    "last_seen": null
+  },
+  {
+    "word": "اللَّهُ",
+    "translit": "allahu",
+    "meaning": "Allah",
+    "surah_id": 1,
+    "ayah_id": 1,
+    "phase": 1,
+    "learned": true,
+    "first_seen": "2026-03-14",
+    "review_count": 2,
+    "quiz_correct": 3,
+    "last_seen": "2026-03-14"
+  }
+]
